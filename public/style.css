@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    margin: 12px 0;
+    
+}
+.chat-container{
+    border: 2px solid black;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 5px;
+   
+}
+
+.chat{
+    height: 400px;
+    overflow-y: auto;
+}
+
+.input-container{
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.message{
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.time{
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(223, 245, 138);
+}
+
+.sender{
+    background-color:  #e9edc9;
+}
+
+.receiver{
+    background-color: #fefae0;
+}
