@@ -8,8 +8,10 @@ h1{
     width: 400px;
     margin: 0 auto;
     border-radius: 5px;
+    background-image: url("https://images.unsplash.com/photo-1554147090-e1221a04a025?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2FsbHBhcGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
    
 }
+
 
 .chat{
     height: 400px;
@@ -31,6 +33,7 @@ h1{
     text-align: center;
     text-shadow: 2px 2px 5px rgb(223, 245, 138);
 }
+
 
 .sender{
     background-color:  #e9edc9;
